@@ -1,0 +1,19 @@
+---
+layout: page
+subheadline: "Adrian Martinez"
+title: "Problem Solver"
+teaser: "Guns"
+date: 2017-03-06
+categories:
+  - curiosities
+author: AdrianMartinez
+tags:
+  - Weapons
+header: Problem Solver
+image:
+  title: blog-images/Weapon.jpg <!--- for image-name.png, substitute name you've given your image file --->
+  thumb: blog-images/Weapon.jpg
+  homepage: blog-images/Weapon.jpg
+  caption:1906-04-09 <!--- info about the image, such as date of issue --->
+  caption_url:
+---
